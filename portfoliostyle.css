@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+}
+
+header>img{
+    width: 10em;
+    height:10em;
+    border-radius: 100%;
+    border:1px solid ;
+}
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+main ul{
+    list-style:none;
+}
+main a{
+    text-decoration: none;
+}
+
